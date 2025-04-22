@@ -1,5 +1,9 @@
 # OpenLLM-1M
 
+<div align="center">
+    <img src="./assets/logo.jpeg" alt="Logo" width="250"/>
+</div>
+
 OpenLLM-1M is a locally deployable chatbot application powered by a Streaming Large Language Model (LLM). It supports processing and generating responses for inputs up to **1 million tokens**, making it suitable for handling long-context conversations. This project leverages **Gradio** for the user interface and is designed to run efficiently on CPU, eliminating the need for GPU resources.
 
 By default, it is integrated with the following models:
